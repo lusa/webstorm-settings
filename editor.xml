@@ -1,5 +1,9 @@
 <application>
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="IS_ANIMATED_SCROLLING" value="false" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
 </application>
