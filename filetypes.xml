@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ReportsTableNav" type="JavaScript" />
       <mapping pattern="TestDraggable" type="JavaScript" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="ReportsTableNav.jsx" type="PLAIN_TEXT" />
       <mapping pattern="TestDraggable.js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
