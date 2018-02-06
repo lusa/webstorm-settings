@@ -12,17 +12,18 @@
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.st</mask>
-      <mask>*.sty</mask>
-      <mask>*.styl</mask>
       <mask>json</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.json</mask>
+      <mask>*.st</mask>
+      <mask>*.sty</mask>
+      <mask>*.styl</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
