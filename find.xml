@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../app/components/schedule/task/EditTaskModal2.js [web-app]'" />
+    <option name="defaultScopeName" value="File '.../app/components/schedule/task/EditTaskModal2.js [web-app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/components/schedule/task/EditTaskModal2.js [web-app]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
