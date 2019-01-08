@@ -5,6 +5,7 @@
       <mapping pattern="TestDraggable" type="JavaScript" />
       <mapping pattern="graphqlMongooseSchema" type="PLAIN_TEXT" />
       <mapping pattern="depositTransactionFromSpiff" type="PLAIN_TEXT" />
+      <mapping pattern="MarginHelpers" type="PLAIN_TEXT" />
       <mapping pattern="ReportsTableNav.jsx" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
