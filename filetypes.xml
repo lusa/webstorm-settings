@@ -12,10 +12,8 @@
       <mapping pattern="transactions" type="PLAIN_TEXT" />
       <mapping pattern="TestDraggable.js" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="clients_v2" type="PLAIN_TEXT" />
       <mapping pattern="ExcelDownloader.js" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
