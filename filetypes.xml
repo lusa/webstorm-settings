@@ -6,13 +6,14 @@
       <mapping pattern="graphqlMongooseSchema" type="PLAIN_TEXT" />
       <mapping pattern="MarginHelpers" type="PLAIN_TEXT" />
       <mapping pattern="ReportsTableNav.jsx" type="PLAIN_TEXT" />
+      <mapping pattern=".git-ignore" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
-      <mapping pattern="ExcelDownloader.js" type="PLAIN_TEXT" />
       <mapping pattern="transactions" type="PLAIN_TEXT" />
       <mapping pattern="TestDraggable.js" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
-      <mapping pattern="clients_v2" type="PLAIN_TEXT" />
       <mapping pattern="depositTransactionFromSpiff" type="PLAIN_TEXT" />
+      <mapping pattern="clients_v2" type="PLAIN_TEXT" />
+      <mapping pattern="ExcelDownloader.js" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
