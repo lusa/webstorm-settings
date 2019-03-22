@@ -4,6 +4,7 @@
       <mapping pattern="lynx-master-qa" type="JavaScript" />
       <mapping pattern="ReportsTableNav" type="JavaScript" />
       <mapping pattern="TestDraggable" type="JavaScript" />
+      <mapping pattern="lynx-smoi-moi" type="JavaScript" />
       <mapping pattern="lynx-workday-hours" type="JavaScript" />
       <mapping pattern="graphqlMongooseSchema" type="PLAIN_TEXT" />
       <mapping pattern="MarginHelpers" type="PLAIN_TEXT" />
