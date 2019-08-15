@@ -68,7 +68,7 @@
         <envs />
       </TaskOptions>
       <TaskOptions>
-        <option name="arguments" value="--write $FilePathRelativeToProjectRoot$" />
+        <option name="arguments" value="--write --single-quote --trailing-comma=all $FilePathRelativeToProjectRoot$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
