@@ -1,11 +1,15 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-05-30T12:28:11</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-05-31T11:38:36</property>
+    <property name="modified">2019-11-22T21:01:08</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
