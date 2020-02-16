@@ -3,7 +3,11 @@
     <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
-    <option name="accentColor" value="009688" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabOpacity" value="28" />
+    <option name="tabsHeight" value="20" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="723c7a28:1704f1442c5:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
