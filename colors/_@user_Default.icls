@@ -3,12 +3,30 @@
     <property name="created">2020-02-14T12:31:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.6.0.0</property>
-    <property name="modified">2020-02-14T12:33:53</property>
+    <property name="modified">2020-02-16T14:44:15</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
+  <colors>
+    <option name="FILESTATUS_COPIED" value="a9dc76" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+  </colors>
   <attributes>
-    <option name="TEXT">
+    <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
   </attributes>
 </scheme>
